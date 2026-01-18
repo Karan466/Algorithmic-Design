@@ -1,0 +1,11 @@
+# Compiled files
+solution.exe
+bf.exe
+*.o
+
+# Zip files
+*.zip
+
+# OS files
+.DS_Store
+Thumbs.db
